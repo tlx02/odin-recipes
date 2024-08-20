@@ -1,0 +1,54 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    padding: 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.ingredients,
+.steps {
+    color:white;
+    text-align: center;
+    padding: 8px;
+    margin: 16px;
+    font-size: 18px;
+}
+
+.ziti-box {
+    background-color: rgb(241, 78, 8);
+}
+
+.ziti {
+    color:rgb(241, 78, 8);
+}
+
+.moussaka-box {
+    background-color: rgba(227, 189, 2, 0.875);
+}
+
+.moussaka {
+    color:rgba(227, 189, 2, 0.875);
+}
+
+.recipes {
+    display: inline;
+    padding: 8px;
+    font-size: 20px;
+    border-style: solid;
+    background-color: burlywood;
+    margin: 16px;
+}
